@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    justify-content: center;
+
+}
+img{
+    width: 300px;
+    padding: 20px;
+    
+}
+div{
+    background-color: rgba(237,237,237);
+    width: 60% ;
+    margin: auto;
+    height: 100px;
+    
+    
+}
+table{
+    margin: auto;
+    text-align: center;
+    width: 60% ;
+
+}
+a{
+    color: blue;
+}
+p{
+    margin: 0.7rem;
+    font-size: 0.9rem;
+}
+.search{
+    margin-bottom: 0%;
+}
+.bosluk{
+    padding-left: 10px;
+}
+
+
